@@ -1,0 +1,33 @@
+.logo {
+  margin-left: 10px;
+}
+.email-img {
+  margin: 0;
+  margin-left: 30px;
+}
+
+.pip-install-image {
+  margin: 0;
+}
+
+/* Adjust the margin and padding of the paragraph to bring it closer to the image */
+.pip-install-image p {
+  margin: 0; /* Remove any default margin */
+  padding: 0; /* Add some padding to create space between text and image */
+}
+
+.pip-install-image p.no-border {
+  border: none; /* Remove any border around the paragraph */
+  background-color: transparent; /* Optional: Set background color to transparent */
+  font-size: 16px; /* Optional: Set the font size for the paragraph */
+  color: #333; /* Optional: Set the text color for the paragraph */
+}
+
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+
+#Pricing {
+  
+}
